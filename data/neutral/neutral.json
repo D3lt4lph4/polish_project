@@ -1,0 +1,90 @@
+{
+    "apple": {
+        "singular": {
+            "Nominative": "jabłko",
+            "genitive": "jabłka",
+            "dative": "jabłku",
+            "Accusative": "jabłko",
+            "Instrumental": "jabłkiem",
+            "Locative": "jabłku",
+            "Vocative": "jabłko"
+
+        },
+        "plural": {
+            "Nominative": "jabłka",
+            "genitive": "jabłek",
+            "dative": "jabłkom",
+            "Accusative": "jabłka",
+            "Instrumental": "jabłkami",
+            "Locative": "jabłkach",
+            "Vocative": "jabłka"
+        }
+
+    },
+    "child": {
+        "singular": {
+            "Nominative": "dziecko",
+            "genitive": "dziecka",
+            "dative": "dziecku",
+            "Accusative": "dziecko",
+            "Instrumental": "dzieckiem",
+            "Locative": "dziecku",
+            "Vocative": "dziecko"
+
+        },
+        "plural": {
+            "Nominative": "dzieci",
+            "genitive": "dzieci",
+            "dative": "dzieciom",
+            "Accusative": "dzieci",
+            "Instrumental": "dziećmi",
+            "Locative": "dzieckach",
+            "Vocative": "dzieci"
+        }
+
+    },
+    "egg": {
+        "singular": {
+            "Nominative": "jajko",
+            "genitive": "jajka",
+            "dative": "jajku",
+            "Accusative": "jajko",
+            "Instrumental": "jajkiem",
+            "Locative": "jajku",
+            "Vocative": "jajko"
+
+        },
+        "plural": {
+            "Nominative": "jajka",
+            "genitive": "jajek",
+            "dative": "jajkom",
+            "Accusative": "jajka",
+            "Instrumental": "jajkami",
+            "Locative": "jajkach",
+            "Vocative": "jajka"
+        }
+
+    },
+    "template": {
+        "singular": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    }
+}
