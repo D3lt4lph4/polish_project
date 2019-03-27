@@ -65,6 +65,72 @@
         }
 
     },
+    "warm": {
+        "singular": {
+            "Nominative": "ciepło",
+            "genitive": "ciepła",
+            "dative": "ciepie",
+            "Accusative": "ciepło",
+            "Instrumental": "ciepłem",
+            "Locative": "cieple",
+            "Vocative": "ciepło"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "forestry": {
+        "singular": {
+            "Nominative": "leśnictwo",
+            "genitive": "leśnictwa",
+            "dative": "leśnictwu",
+            "Accusative": "leśnictwo",
+            "Instrumental": "leśnictwem",
+            "Locative": "leśnictwie",
+            "Vocative": "leśnictwo"
+
+        },
+        "plural": {
+            "Nominative": "leśnictwa",
+            "genitive": "leśnictw",
+            "dative": "leśnictwom",
+            "Accusative": "leśnictwa",
+            "Instrumental": "leśnictwami",
+            "Locative": "leśnictwach",
+            "Vocative": "leśnictwa"
+        }
+
+    },
+    "freeze (verbal noun)": {
+        "singular": {
+            "Nominative": "marznięcie",
+            "genitive": "marznięcia",
+            "dative": "marznięciu",
+            "Accusative": "marznięcie",
+            "Instrumental": "marznięciem",
+            "Locative": "marznięciu",
+            "Vocative": "marznięcie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
