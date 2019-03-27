@@ -8,7 +8,6 @@
             "Instrumental": "jabłkiem",
             "Locative": "jabłku",
             "Vocative": "jabłko"
-
         },
         "plural": {
             "Nominative": "jabłka",
@@ -30,7 +29,6 @@
             "Instrumental": "dzieckiem",
             "Locative": "dziecku",
             "Vocative": "dziecko"
-
         },
         "plural": {
             "Nominative": "dzieci",
@@ -52,7 +50,6 @@
             "Instrumental": "jajkiem",
             "Locative": "jajku",
             "Vocative": "jajko"
-
         },
         "plural": {
             "Nominative": "jajka",
@@ -74,7 +71,6 @@
             "Instrumental": "ciepłem",
             "Locative": "cieple",
             "Vocative": "ciepło"
-
         },
         "plural": {
             "Nominative": "",
@@ -96,7 +92,6 @@
             "Instrumental": "leśnictwem",
             "Locative": "leśnictwie",
             "Vocative": "leśnictwo"
-
         },
         "plural": {
             "Nominative": "leśnictwa",
@@ -118,7 +113,6 @@
             "Instrumental": "marznięciem",
             "Locative": "marznięciu",
             "Vocative": "marznięcie"
-
         },
         "plural": {
             "Nominative": "",
@@ -128,6 +122,48 @@
             "Instrumental": "",
             "Locative": "",
             "Vocative": ""
+        }
+
+    },
+    "cold (low temperature)": {
+        "singular": {
+            "Nominative": "zimno",
+            "genitive": "zimna",
+            "dative": "zimnu",
+            "Accusative": "zimno",
+            "Instrumental": "zimniem",
+            "Locative": "zimnie",
+            "Vocative": "zimno"
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "bruise (verbal noun)": {
+        "singular": {
+            "Nominative": "obicie",
+            "genitive": "obicia",
+            "dative": "obiciu",
+            "Accusative": "obicie",
+            "Instrumental": "obiciem",
+            "Locative": "obiciu",
+            "Vocative": "obicie"
+        },
+        "plural": {
+            "Nominative": "obicia",
+            "genitive": "obić",
+            "dative": "obiciom",
+            "Accusative": "obicia",
+            "Instrumental": "obiciami",
+            "Locative": "obiciach",
+            "Vocative": "obicia"
         }
 
     },
