@@ -255,6 +255,28 @@
         }
 
     },
+    "cereal": {
+        "singular": {
+            "Nominative": "zboże",
+            "genitive": "zboża",
+            "dative": "zbożu",
+            "Accusative": "zboże",
+            "Instrumental": "zbożem",
+            "Locative": "zbożu",
+            "Vocative": "zboże"
+
+        },
+        "plural": {
+            "Nominative": "zboża",
+            "genitive": "zbóż",
+            "dative": "zbożom",
+            "Accusative": "zboża",
+            "Instrumental": "zbożami",
+            "Locative": "zbożach",
+            "Vocative": "zboża"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
