@@ -211,6 +211,28 @@
         }
 
     },
+    "animal": {
+        "singular": {
+            "Nominative": "zwierzę",
+            "genitive": "zwierzęcia",
+            "dative": "zwierzęciu",
+            "Accusative": "zwierzę",
+            "Instrumental": "zwierzęciem",
+            "Locative": "zwierzęciu",
+            "Vocative": "zwierzę"
+
+        },
+        "plural": {
+            "Nominative": "zwierzęta",
+            "genitive": "zwierząt",
+            "dative": "zwierzętom",
+            "Accusative": "zwierzęta",
+            "Instrumental": "zwierzętami",
+            "Locative": "zwierzętach",
+            "Vocative": "zwierzęta"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
