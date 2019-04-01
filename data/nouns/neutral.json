@@ -233,6 +233,28 @@
         }
 
     },
+    "herb": {
+        "singular": {
+            "Nominative": "zioło",
+            "genitive": "zioła",
+            "dative": "ziołu",
+            "Accusative": "zioło",
+            "Instrumental": "ziołiem",
+            "Locative": "ziole",
+            "Vocative": "zioło"
+
+        },
+        "plural": {
+            "Nominative": "zioła",
+            "genitive": "ziół",
+            "dative": "ziołom",
+            "Accusative": "zioła",
+            "Instrumental": "ziołami",
+            "Locative": "ziołach",
+            "Vocative": "zioła"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
