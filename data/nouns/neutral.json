@@ -167,6 +167,50 @@
         }
 
     },
+    "tuition fee": {
+        "singular": {
+            "Nominative": "czesne",
+            "genitive": "czesnego",
+            "dative": "czesnemu",
+            "Accusative": "czesne",
+            "Instrumental": "czesnym",
+            "Locative": "czesnym",
+            "Vocative": "czesne"
+
+        },
+        "plural": {
+            "Nominative": "czesne",
+            "genitive": "czesnych",
+            "dative": "czesnym",
+            "Accusative": "czesne",
+            "Instrumental": "czesnymi",
+            "Locative": "czesnych",
+            "Vocative": "czesne"
+        }
+
+    },
+    "infant, baby": {
+        "singular": {
+            "Nominative": "niemowlę",
+            "genitive": "niemowlęcia",
+            "dative": "niemowlęciu",
+            "Accusative": "niemowlę",
+            "Instrumental": "niemowlęciem",
+            "Locative": "niemowlęciu",
+            "Vocative": "niemowlę"
+
+        },
+        "plural": {
+            "Nominative": "niemowlęta",
+            "genitive": "niemowląt",
+            "dative": "niemowlętom",
+            "Accusative": "niemowlęta",
+            "Instrumental": "niemowlętami",
+            "Locative": "niemowlętach",
+            "Vocative": "niemowlęta"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
