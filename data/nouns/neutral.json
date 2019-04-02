@@ -277,6 +277,72 @@
         }
 
     },
+    "dismantle (verbal noun)": {
+        "singular": {
+            "Nominative": "demontowanie",
+            "genitive": "demontowania",
+            "dative": "demontowaniu",
+            "Accusative": "demontowanie",
+            "Instrumental": "demontowaniem",
+            "Locative": "demontowaniu",
+            "Vocative": "demontowanie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "forum": {
+        "singular": {
+            "Nominative": "forum",
+            "genitive": "forum",
+            "dative": "forum",
+            "Accusative": "forum",
+            "Instrumental": "forum",
+            "Locative": "forum",
+            "Vocative": "forum"
+
+        },
+        "plural": {
+            "Nominative": "fora",
+            "genitive": "forów",
+            "dative": "forom",
+            "Accusative": "fora",
+            "Instrumental": "forami",
+            "Locative": "forach",
+            "Vocative": "fora"
+        }
+
+    },
+    "midterm exam (university)": {
+        "singular": {
+            "Nominative": "kolokwium",
+            "genitive": "kolokwium",
+            "dative": "kolokwium",
+            "Accusative": "kolokwium",
+            "Instrumental": "kolokwium",
+            "Locative": "kolokwium",
+            "Vocative": "kolokwium"
+
+        },
+        "plural": {
+            "Nominative": "kolokwium",
+            "genitive": "kolokwium",
+            "dative": "kolokwium",
+            "Accusative": "kolokwium",
+            "Instrumental": "kolokwium",
+            "Locative": "kolokwium",
+            "Vocative": "kolokwium"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
