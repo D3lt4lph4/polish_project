@@ -343,6 +343,50 @@
         }
 
     },
+    "to be killed (verbal noun)": {
+        "singular": {
+            "Nominative": "ginięcie",
+            "genitive": "ginięcia",
+            "dative": "ginięciu",
+            "Accusative": "ginięcie",
+            "Instrumental": "ginięciem",
+            "Locative": "ginięciu",
+            "Vocative": "ginięcie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "kitten": {
+        "singular": {
+            "Nominative": "kocię",
+            "genitive": "kocięcia",
+            "dative": "kocięciu",
+            "Accusative": "kocię",
+            "Instrumental": "kocięciem",
+            "Locative": "kocięciu",
+            "Vocative": "kocię"
+
+        },
+        "plural": {
+            "Nominative": "kocięta",
+            "genitive": "kociąt",
+            "dative": "kociętom",
+            "Accusative": "kocięta",
+            "Instrumental": "kociętami",
+            "Locative": "kociętach",
+            "Vocative": "kocięta"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
