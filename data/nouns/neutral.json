@@ -409,6 +409,28 @@
         }
 
     },
+    "butter": {
+        "singular": {
+            "Nominative": "masło",
+            "genitive": "masła",
+            "dative": "masłu",
+            "Accusative": "masło",
+            "Instrumental": "masłem",
+            "Locative": "maśle",
+            "Vocative": "masło"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
@@ -431,5 +453,4 @@
         }
 
     }
-
 }
