@@ -387,6 +387,28 @@
         }
 
     },
+    "toucher (verbal noun)": {
+        "singular": {
+            "Nominative": "dotykanie",
+            "genitive": "dotykania",
+            "dative": "dotykaniu",
+            "Accusative": "dotykanie",
+            "Instrumental": "dotykaniem",
+            "Locative": "dotykaniu",
+            "Vocative": "dotykanie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
@@ -409,4 +431,5 @@
         }
 
     }
+
 }
