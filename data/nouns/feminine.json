@@ -1,4 +1,46 @@
 {
+    "scandal, affair": {
+        "singular": {
+            "Nominative": "afera",
+            "genitive": "afery",
+            "dative": "aferze",
+            "Accusative": "aferę",
+            "Instrumental": "aferą",
+            "Locative": "aferze",
+            "Vocative": "afero"
+        },
+        "plural": {
+            "Nominative": "afery",
+            "genitive": "afer",
+            "dative": "aferom",
+            "Accusative": "afery",
+            "Instrumental": "aferami",
+            "Locative": "aferach",
+            "Vocative": "afery"
+        }
+
+    },
+    "colour": {
+        "singular": {
+            "Nominative": "barwa",
+            "genitive": "barwy",
+            "dative": "barwie",
+            "Accusative": "barwę",
+            "Instrumental": "barwą",
+            "Locative": "barwie",
+            "Vocative": "barwo"
+        },
+        "plural": {
+            "Nominative": "barwy",
+            "genitive": "barw",
+            "dative": "barwom",
+            "Accusative": "barwy",
+            "Instrumental": "barwami",
+            "Locative": "barwach",
+            "Vocative": "barwy"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
