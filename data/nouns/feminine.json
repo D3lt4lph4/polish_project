@@ -41,6 +41,48 @@
         }
 
     },
+    "artist": {
+        "singular": {
+            "Nominative": "artystka",
+            "genitive": "artystki",
+            "dative": "artystce",
+            "Accusative": "artystkę",
+            "Instrumental": "artystką",
+            "Locative": "artystce",
+            "Vocative": "artystko"
+        },
+        "plural": {
+            "Nominative": "artystki",
+            "genitive": "artystek",
+            "dative": "artystkom",
+            "Accusative": "artystki",
+            "Instrumental": "artystkami",
+            "Locative": "artystkach",
+            "Vocative": "artystki"
+        }
+
+    },
+    "barge": {
+        "singular": {
+            "Nominative": "barka",
+            "genitive": "barki",
+            "dative": "barce",
+            "Accusative": "barkę",
+            "Instrumental": "barką",
+            "Locative": "barce",
+            "Vocative": "barko"
+        },
+        "plural": {
+            "Nominative": "barki",
+            "genitive": "barek",
+            "dative": "barkom",
+            "Accusative": "barki",
+            "Instrumental": "barkami",
+            "Locative": "barkach",
+            "Vocative": "barki"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
