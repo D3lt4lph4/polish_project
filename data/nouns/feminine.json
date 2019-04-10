@@ -83,6 +83,48 @@
         }
 
     },
+    "spool": {
+        "singular": {
+            "Nominative": "cewa",
+            "genitive": "cewy",
+            "dative": "cewie",
+            "Accusative": "cewę",
+            "Instrumental": "cewą",
+            "Locative": "cewie",
+            "Vocative": "cewo"
+        },
+        "plural": {
+            "Nominative": "cewy",
+            "genitive": "cew",
+            "dative": "cewom",
+            "Accusative": "cewy",
+            "Instrumental": "cewami",
+            "Locative": "cewach",
+            "Vocative": "cewy"
+        }
+
+    },
+    "moment": {
+        "singular": {
+            "Nominative": "chwila",
+            "genitive": "chwili",
+            "dative": "chwili",
+            "Accusative": "chwilę",
+            "Instrumental": "chwilą",
+            "Locative": "chwili",
+            "Vocative": "chwilo"
+        },
+        "plural": {
+            "Nominative": "chwile",
+            "genitive": "chwil",
+            "dative": "chwilom",
+            "Accusative": "chwile",
+            "Instrumental": "chwilami",
+            "Locative": "chwilach",
+            "Vocative": "chwile"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
