@@ -125,6 +125,48 @@
         }
 
     },
+    "ballista": {
+        "singular": {
+            "Nominative": "balista",
+            "genitive": "balisty",
+            "dative": "baliście",
+            "Accusative": "balistę",
+            "Instrumental": "balistą",
+            "Locative": "baliście",
+            "Vocative": "balisto"
+        },
+        "plural": {
+            "Nominative": "balisty",
+            "genitive": "balist",
+            "dative": "balistom",
+            "Accusative": "balisty",
+            "Instrumental": "balistami",
+            "Locative": "balistach",
+            "Vocative": "balisty"
+        }
+
+    },
+    "grandmother": {
+        "singular": {
+            "Nominative": "babcia",
+            "genitive": "babci",
+            "dative": "babci",
+            "Accusative": "babcię",
+            "Instrumental": "babcią",
+            "Locative": "babci",
+            "Vocative": "babciu"
+        },
+        "plural": {
+            "Nominative": "babcie",
+            "genitive": "babć",
+            "dative": "babciom",
+            "Accusative": "babcie",
+            "Instrumental": "babciami",
+            "Locative": "babciach",
+            "Vocative": "babcie"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
