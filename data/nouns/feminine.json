@@ -167,6 +167,48 @@
         }
 
     },
+    "surgery": {
+        "singular": {
+            "Nominative": "chirurgia",
+            "genitive": "chirurgii",
+            "dative": "chirurgii",
+            "Accusative": "chirurgię",
+            "Instrumental": "chirurgią",
+            "Locative": "chirurgii",
+            "Vocative": "chirurgio"
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "vodka (colloquial)": {
+        "singular": {
+            "Nominative": "czysta",
+            "genitive": "czystej",
+            "dative": "czystej",
+            "Accusative": "czystą",
+            "Instrumental": "czystą",
+            "Locative": "czystej",
+            "Vocative": "czysta"
+        },
+        "plural": {
+            "Nominative": "czyste",
+            "genitive": "czystych",
+            "dative": "czystym",
+            "Accusative": "czyste",
+            "Instrumental": "czystymi",
+            "Locative": "czystych",
+            "Vocative": "czyste"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
