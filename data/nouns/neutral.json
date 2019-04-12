@@ -431,6 +431,50 @@
         }
 
     },
+    "wonder": {
+        "singular": {
+            "Nominative": "cudo",
+            "genitive": "cuda",
+            "dative": "cudu",
+            "Accusative": "cudo",
+            "Instrumental": "cudem",
+            "Locative": "cudzie",
+            "Vocative": "cudo"
+
+        },
+        "plural": {
+            "Nominative": "cuda",
+            "genitive": "cudów",
+            "dative": "cudom",
+            "Accusative": "cuda",
+            "Instrumental": "cudami",
+            "Locative": "cudach",
+            "Vocative": "cuda"
+        }
+
+    },
+    "good": {
+        "singular": {
+            "Nominative": "dobro",
+            "genitive": "dobra",
+            "dative": "dobru",
+            "Accusative": "dobro",
+            "Instrumental": "dobrem",
+            "Locative": "dobru",
+            "Vocative": "dobro"
+
+        },
+        "plural": {
+            "Nominative": "dobra",
+            "genitive": "dóbr",
+            "dative": "dobrom",
+            "Accusative": "dobra",
+            "Instrumental": "dobrami",
+            "Locative": "dobrach",
+            "Vocative": "dobra"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
