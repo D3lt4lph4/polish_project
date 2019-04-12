@@ -209,6 +209,48 @@
         }
 
     },
+    "metropolitan area": {
+        "singular": {
+            "Nominative": "aglomeracja",
+            "genitive": "aglomeracji",
+            "dative": "aglomeracji",
+            "Accusative": "aglomerację",
+            "Instrumental": "aglomeracją",
+            "Locative": "aglomeracji",
+            "Vocative": "aglomeracjo"
+        },
+        "plural": {
+            "Nominative": "aglomeracje",
+            "genitive": "aglomeracji/aglomeracyj",
+            "dative": "aglomeracjom",
+            "Accusative": "aglomeracje",
+            "Instrumental": "aglomeracjami",
+            "Locative": "aglomeracjach",
+            "Vocative": "aglomeracje"
+        }
+
+    },
+    "ceramics": {
+        "singular": {
+            "Nominative": "ceramika",
+            "genitive": "ceramiki",
+            "dative": "ceramice",
+            "Accusative": "ceramikę",
+            "Instrumental": "ceramiką",
+            "Locative": "ceramice",
+            "Vocative": "ceramiko"
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
