@@ -251,6 +251,69 @@
         }
 
     },
+    "courgette": {
+        "singular": {
+            "Nominative": "cukinia",
+            "genitive": "cukinii",
+            "dative": "cukinii",
+            "Accusative": "cukinię",
+            "Instrumental": "cukinią",
+            "Locative": "cukinii",
+            "Vocative": "cukinio"
+        },
+        "plural": {
+            "Nominative": "cukinie",
+            "genitive": "cukinii/cukinij",
+            "dative": "cukiniom",
+            "Accusative": "cukinie",
+            "Instrumental": "cukiniami",
+            "Locative": "cukiniach",
+            "Vocative": "cukinie"
+        }
+
+    },
+    "demonstration": {
+        "singular": {
+            "Nominative": "demonstracja",
+            "genitive": "demonstracji",
+            "dative": "demonstracji",
+            "Accusative": "demonstrację",
+            "Instrumental": "demonstracją",
+            "Locative": "demonstracji",
+            "Vocative": "demonstracjo"
+        },
+        "plural": {
+            "Nominative": "demonstracje",
+            "genitive": "demonstracji/demonstracyj",
+            "dative": "demonstracjom",
+            "Accusative": "demonstracje",
+            "Instrumental": "demonstracjami",
+            "Locative": "demonstracjach",
+            "Vocative": "demonstracje"
+        }
+
+    },
+    "little girl": {
+        "singular": {
+            "Nominative": "dziewczynka",
+            "genitive": "dziewczynki",
+            "dative": "dziewczynce",
+            "Accusative": "dziewczynkę",
+            "Instrumental": "dziewczynką",
+            "Locative": "dziewczynce",
+            "Vocative": "dziewczynko"
+        },
+        "plural": {
+            "Nominative": "dziewczynki",
+            "genitive": "dziewczynek",
+            "dative": "dziewczynkom",
+            "Accusative": "dziewczynki",
+            "Instrumental": "dziewczynkami",
+            "Locative": "dziewczynkach",
+            "Vocative": "dziewczynki"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
