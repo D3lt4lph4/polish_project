@@ -314,6 +314,27 @@
         }
 
     },
+    "acacia": {
+        "singular": {
+            "Nominative": "akacja",
+            "genitive": "akacji",
+            "dative": "akacji",
+            "Accusative": "akację",
+            "Instrumental": "akacją",
+            "Locative": "akacji",
+            "Vocative": "akacjo"
+        },
+        "plural": {
+            "Nominative": "akacje",
+            "genitive": "akacji/akacyj",
+            "dative": "akacjom",
+            "Accusative": "akacje",
+            "Instrumental": "akacjami",
+            "Locative": "akacjach",
+            "Vocative": "akacje"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
