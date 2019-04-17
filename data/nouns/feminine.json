@@ -377,6 +377,48 @@
         }
 
     },
+    "cotton": {
+        "singular": {
+            "Nominative": "bawełna",
+            "genitive": "bawełny",
+            "dative": "bawełnie",
+            "Accusative": "bawełnę",
+            "Instrumental": "bawełną",
+            "Locative": "bawełnie",
+            "Vocative": "bawełno"
+        },
+        "plural": {
+            "Nominative": "bawełny",
+            "genitive": "bawełn",
+            "dative": "bawełnom",
+            "Accusative": "bawełny",
+            "Instrumental": "bawełnami",
+            "Locative": "bawełnach",
+            "Vocative": "bawełny"
+        }
+
+    },
+    "biography": {
+        "singular": {
+            "Nominative": "biografia",
+            "genitive": "biografii",
+            "dative": "biografii",
+            "Accusative": "biografię",
+            "Instrumental": "biografią",
+            "Locative": "biografii",
+            "Vocative": "biografio"
+        },
+        "plural": {
+            "Nominative": "biografie",
+            "genitive": "biografii",
+            "dative": "biografiom",
+            "Accusative": "biografie",
+            "Instrumental": "biografiami",
+            "Locative": "biografiach",
+            "Vocative": "biografie"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
