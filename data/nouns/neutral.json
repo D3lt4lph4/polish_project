@@ -475,6 +475,72 @@
         }
 
     },
+    "vol (verbal noun)": {
+        "singular": {
+            "Nominative": "fruwanie",
+            "genitive": "fruwania",
+            "dative": "fruwaniu",
+            "Accusative": "fruwanie",
+            "Instrumental": "fruwaniem",
+            "Locative": "fruwaniu",
+            "Vocative": "fruwanie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "county, shire": {
+        "singular": {
+            "Nominative": "hrabstwo",
+            "genitive": "hrabstwa",
+            "dative": "hrabstwu",
+            "Accusative": "hrabstwo",
+            "Instrumental": "hrabstwem",
+            "Locative": "hrabstwie",
+            "Vocative": "hrabstwo"
+
+        },
+        "plural": {
+            "Nominative": "hrabstwa",
+            "genitive": "hrabstew",
+            "dative": "hrabstwom",
+            "Accusative": "hrabstwa",
+            "Instrumental": "hrabstwami",
+            "Locative": "hrabstwach",
+            "Vocative": "hrabstwa"
+        }
+
+    },
+    "tomorrow": {
+        "singular": {
+            "Nominative": "jutro",
+            "genitive": "jutra",
+            "dative": "jutru",
+            "Accusative": "jutro",
+            "Instrumental": "jutrem",
+            "Locative": "jutrze",
+            "Vocative": "jutro"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
