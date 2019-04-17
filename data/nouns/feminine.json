@@ -335,6 +335,48 @@
         }
 
     },
+    "alley": {
+        "singular": {
+            "Nominative": "aleja",
+            "genitive": "alei",
+            "dative": "alei",
+            "Accusative": "aleję",
+            "Instrumental": "aleją",
+            "Locative": "alei",
+            "Vocative": "alejo"
+        },
+        "plural": {
+            "Nominative": "aleje",
+            "genitive": "alej",
+            "dative": "alejom",
+            "Accusative": "aleje",
+            "Instrumental": "alejami",
+            "Locative": "alejach",
+            "Vocative": "aleje"
+        }
+
+    },
+    "architect (female)": {
+        "singular": {
+            "Nominative": "architektka",
+            "genitive": "architektki",
+            "dative": "architektce",
+            "Accusative": "architektkę",
+            "Instrumental": "architektką",
+            "Locative": "architektce",
+            "Vocative": "architektko"
+        },
+        "plural": {
+            "Nominative": "architektki",
+            "genitive": "architektek",
+            "dative": "architektkom",
+            "Accusative": "architektki",
+            "Instrumental": "architektkami",
+            "Locative": "architektkach",
+            "Vocative": "architektki"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
