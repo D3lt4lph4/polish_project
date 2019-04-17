@@ -541,6 +541,50 @@
         }
 
     },
+    "kaczę": {
+        "singular": {
+            "Nominative": "kaczę",
+            "genitive": "kaczęcia",
+            "dative": "kaczęciu",
+            "Accusative": "kaczę",
+            "Instrumental": "kaczęciem",
+            "Locative": "kaczęciu",
+            "Vocative": "kaczę"
+
+        },
+        "plural": {
+            "Nominative": "kaczęta",
+            "genitive": "kacząt",
+            "dative": "kaczętom",
+            "Accusative": "kaczę",
+            "Instrumental": "kaczętami",
+            "Locative": "kaczętach",
+            "Vocative": "kaczę"
+        }
+
+    },
+    "diamond (card game)": {
+        "singular": {
+            "Nominative": "karo",
+            "genitive": "kara",
+            "dative": "karowi",
+            "Accusative": "karę",
+            "Instrumental": "karą",
+            "Locative": "karze",
+            "Vocative": "karze"
+
+        },
+        "plural": {
+            "Nominative": "kara",
+            "genitive": "kar",
+            "dative": "karom",
+            "Accusative": "kara",
+            "Instrumental": "karami",
+            "Locative": "karach",
+            "Vocative": "kara"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
