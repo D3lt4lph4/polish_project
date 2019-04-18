@@ -587,6 +587,72 @@
     },
     "template": {
         "singular": {
+            "Nominative": "ekstremum",
+            "genitive": "ekstremum",
+            "dative": "ekstremum",
+            "Accusative": "ekstremum",
+            "Instrumental": "ekstremum",
+            "Locative": "ekstremum",
+            "Vocative": "ekstremum"
+
+        },
+        "plural": {
+            "Nominative": "ekstrema",
+            "genitive": "ekstremów",
+            "dative": "ekstremom",
+            "Accusative": "ekstrema",
+            "Instrumental": "ekstremami",
+            "Locative": "ekstremach",
+            "Vocative": "ekstrema"
+        }
+
+    },
+    "nest": {
+        "singular": {
+            "Nominative": "gniazdo",
+            "genitive": "gniazda",
+            "dative": "gniazdu",
+            "Accusative": "gniazdo",
+            "Instrumental": "gniazdem",
+            "Locative": "gnieździe",
+            "Vocative": "gniazdo"
+
+        },
+        "plural": {
+            "Nominative": "gniazda",
+            "genitive": "gniazd",
+            "dative": "gniazdom",
+            "Accusative": "gniazda",
+            "Instrumental": "gniazdami",
+            "Locative": "gniazdach",
+            "Vocative": "gniazda"
+        }
+
+    },
+    "hobby": {
+        "singular": {
+            "Nominative": "hobby",
+            "genitive": "hobby",
+            "dative": "hobby",
+            "Accusative": "hobby",
+            "Instrumental": "hobby",
+            "Locative": "hobby",
+            "Vocative": "hobby"
+
+        },
+        "plural": {
+            "Nominative": "hobby",
+            "genitive": "hobby",
+            "dative": "hobby",
+            "Accusative": "hobby",
+            "Instrumental": "hobby",
+            "Locative": "hobby",
+            "Vocative": "hobby"
+        }
+
+    },
+    "template": {
+        "singular": {
             "Nominative": "",
             "genitive": "",
             "dative": "",
