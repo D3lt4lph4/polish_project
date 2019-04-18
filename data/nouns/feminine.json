@@ -419,6 +419,69 @@
         }
 
     },
+    "academy": {
+        "singular": {
+            "Nominative": "akademia",
+            "genitive": "akademii",
+            "dative": "akademii",
+            "Accusative": "akademię",
+            "Instrumental": "akademią",
+            "Locative": "akademii",
+            "Vocative": "akademio"
+        },
+        "plural": {
+            "Nominative": "akademie",
+            "genitive": "akademii/akademij",
+            "dative": "akademiom",
+            "Accusative": "akademie",
+            "Instrumental": "akademiami",
+            "Locative": "akademiach",
+            "Vocative": "akademie"
+        }
+
+    },
+    "anecdote": {
+        "singular": {
+            "Nominative": "anegdota",
+            "genitive": "anegdoty",
+            "dative": "anegdocie",
+            "Accusative": "anegdotę",
+            "Instrumental": "anegdotą",
+            "Locative": "anegdocie",
+            "Vocative": "anegdoto"
+        },
+        "plural": {
+            "Nominative": "anegdoty",
+            "genitive": "anegdot",
+            "dative": "anegdotom",
+            "Accusative": "anegdoty",
+            "Instrumental": "anegdotami",
+            "Locative": "anegdotach",
+            "Vocative": "anegdoty"
+        }
+
+    },
+    "(vulgar, offensive) female clerk or office worker with an arrogant, condescending attitude": {
+        "singular": {
+            "Nominative": "biurwa",
+            "genitive": "biurwy",
+            "dative": "biurwie",
+            "Accusative": "biurwę",
+            "Instrumental": "biurwą",
+            "Locative": "biurwie",
+            "Vocative": "biurwo"
+        },
+        "plural": {
+            "Nominative": "biurwy",
+            "genitive": "biurew",
+            "dative": "biurwom",
+            "Accusative": "biurwy",
+            "Instrumental": "biurwami",
+            "Locative": "biurwach",
+            "Vocative": "biurwy"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
