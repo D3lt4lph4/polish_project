@@ -475,6 +475,28 @@
         }
 
     },
+    "archive": {
+        "singular": {
+            "Nominative": "archiwum",
+            "genitive": "archiwum",
+            "dative": "archiwum",
+            "Accusative": "archiwum",
+            "Instrumental": "archiwum",
+            "Locative": "archiwum",
+            "Vocative": "archiwum"
+
+        },
+        "plural": {
+            "Nominative": "archiwa",
+            "genitive": "archiwów",
+            "dative": "archiwom",
+            "Accusative": "archiwa",
+            "Instrumental": "archiwami",
+            "Locative": "archiwach",
+            "Vocative": "archiwa"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
