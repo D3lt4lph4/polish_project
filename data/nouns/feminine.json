@@ -335,6 +335,174 @@
         }
 
     },
+    "acacia": {
+        "singular": {
+            "Nominative": "akacja",
+            "genitive": "akacji",
+            "dative": "akacji",
+            "Accusative": "akację",
+            "Instrumental": "akacją",
+            "Locative": "akacji",
+            "Vocative": "akacjo"
+        },
+        "plural": {
+            "Nominative": "akacje",
+            "genitive": "akacji/akacyj",
+            "dative": "akacjom",
+            "Accusative": "akacje",
+            "Instrumental": "akacjami",
+            "Locative": "akacjach",
+            "Vocative": "akacje"
+        }
+
+    },
+    "alley": {
+        "singular": {
+            "Nominative": "aleja",
+            "genitive": "alei",
+            "dative": "alei",
+            "Accusative": "aleję",
+            "Instrumental": "aleją",
+            "Locative": "alei",
+            "Vocative": "alejo"
+        },
+        "plural": {
+            "Nominative": "aleje",
+            "genitive": "alej",
+            "dative": "alejom",
+            "Accusative": "aleje",
+            "Instrumental": "alejami",
+            "Locative": "alejach",
+            "Vocative": "aleje"
+        }
+
+    },
+    "architect (female)": {
+        "singular": {
+            "Nominative": "architektka",
+            "genitive": "architektki",
+            "dative": "architektce",
+            "Accusative": "architektkę",
+            "Instrumental": "architektką",
+            "Locative": "architektce",
+            "Vocative": "architektko"
+        },
+        "plural": {
+            "Nominative": "architektki",
+            "genitive": "architektek",
+            "dative": "architektkom",
+            "Accusative": "architektki",
+            "Instrumental": "architektkami",
+            "Locative": "architektkach",
+            "Vocative": "architektki"
+        }
+
+    },
+    "cotton": {
+        "singular": {
+            "Nominative": "bawełna",
+            "genitive": "bawełny",
+            "dative": "bawełnie",
+            "Accusative": "bawełnę",
+            "Instrumental": "bawełną",
+            "Locative": "bawełnie",
+            "Vocative": "bawełno"
+        },
+        "plural": {
+            "Nominative": "bawełny",
+            "genitive": "bawełn",
+            "dative": "bawełnom",
+            "Accusative": "bawełny",
+            "Instrumental": "bawełnami",
+            "Locative": "bawełnach",
+            "Vocative": "bawełny"
+        }
+
+    },
+    "biography": {
+        "singular": {
+            "Nominative": "biografia",
+            "genitive": "biografii",
+            "dative": "biografii",
+            "Accusative": "biografię",
+            "Instrumental": "biografią",
+            "Locative": "biografii",
+            "Vocative": "biografio"
+        },
+        "plural": {
+            "Nominative": "biografie",
+            "genitive": "biografii",
+            "dative": "biografiom",
+            "Accusative": "biografie",
+            "Instrumental": "biografiami",
+            "Locative": "biografiach",
+            "Vocative": "biografie"
+        }
+
+    },
+    "academy": {
+        "singular": {
+            "Nominative": "akademia",
+            "genitive": "akademii",
+            "dative": "akademii",
+            "Accusative": "akademię",
+            "Instrumental": "akademią",
+            "Locative": "akademii",
+            "Vocative": "akademio"
+        },
+        "plural": {
+            "Nominative": "akademie",
+            "genitive": "akademii/akademij",
+            "dative": "akademiom",
+            "Accusative": "akademie",
+            "Instrumental": "akademiami",
+            "Locative": "akademiach",
+            "Vocative": "akademie"
+        }
+
+    },
+    "anecdote": {
+        "singular": {
+            "Nominative": "anegdota",
+            "genitive": "anegdoty",
+            "dative": "anegdocie",
+            "Accusative": "anegdotę",
+            "Instrumental": "anegdotą",
+            "Locative": "anegdocie",
+            "Vocative": "anegdoto"
+        },
+        "plural": {
+            "Nominative": "anegdoty",
+            "genitive": "anegdot",
+            "dative": "anegdotom",
+            "Accusative": "anegdoty",
+            "Instrumental": "anegdotami",
+            "Locative": "anegdotach",
+            "Vocative": "anegdoty"
+        }
+
+    },
+    "(vulgar, offensive) female clerk or office worker with an arrogant, condescending attitude": {
+        "singular": {
+            "Nominative": "biurwa",
+            "genitive": "biurwy",
+            "dative": "biurwie",
+            "Accusative": "biurwę",
+            "Instrumental": "biurwą",
+            "Locative": "biurwie",
+            "Vocative": "biurwo"
+        },
+        "plural": {
+            "Nominative": "biurwy",
+            "genitive": "biurew",
+            "dative": "biurwom",
+            "Accusative": "biurwy",
+            "Instrumental": "biurwami",
+            "Locative": "biurwach",
+            "Vocative": "biurwy"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",

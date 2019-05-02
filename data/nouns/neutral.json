@@ -519,6 +519,182 @@
         }
 
     },
+    "vol (verbal noun)": {
+        "singular": {
+            "Nominative": "fruwanie",
+            "genitive": "fruwania",
+            "dative": "fruwaniu",
+            "Accusative": "fruwanie",
+            "Instrumental": "fruwaniem",
+            "Locative": "fruwaniu",
+            "Vocative": "fruwanie"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "county, shire": {
+        "singular": {
+            "Nominative": "hrabstwo",
+            "genitive": "hrabstwa",
+            "dative": "hrabstwu",
+            "Accusative": "hrabstwo",
+            "Instrumental": "hrabstwem",
+            "Locative": "hrabstwie",
+            "Vocative": "hrabstwo"
+
+        },
+        "plural": {
+            "Nominative": "hrabstwa",
+            "genitive": "hrabstew",
+            "dative": "hrabstwom",
+            "Accusative": "hrabstwa",
+            "Instrumental": "hrabstwami",
+            "Locative": "hrabstwach",
+            "Vocative": "hrabstwa"
+        }
+
+    },
+    "tomorrow": {
+        "singular": {
+            "Nominative": "jutro",
+            "genitive": "jutra",
+            "dative": "jutru",
+            "Accusative": "jutro",
+            "Instrumental": "jutrem",
+            "Locative": "jutrze",
+            "Vocative": "jutro"
+
+        },
+        "plural": {
+            "Nominative": "",
+            "genitive": "",
+            "dative": "",
+            "Accusative": "",
+            "Instrumental": "",
+            "Locative": "",
+            "Vocative": ""
+        }
+
+    },
+    "kaczę": {
+        "singular": {
+            "Nominative": "kaczę",
+            "genitive": "kaczęcia",
+            "dative": "kaczęciu",
+            "Accusative": "kaczę",
+            "Instrumental": "kaczęciem",
+            "Locative": "kaczęciu",
+            "Vocative": "kaczę"
+
+        },
+        "plural": {
+            "Nominative": "kaczęta",
+            "genitive": "kacząt",
+            "dative": "kaczętom",
+            "Accusative": "kaczę",
+            "Instrumental": "kaczętami",
+            "Locative": "kaczętach",
+            "Vocative": "kaczę"
+        }
+
+    },
+    "diamond (card game)": {
+        "singular": {
+            "Nominative": "karo",
+            "genitive": "kara",
+            "dative": "karowi",
+            "Accusative": "karę",
+            "Instrumental": "karą",
+            "Locative": "karze",
+            "Vocative": "karze"
+
+        },
+        "plural": {
+            "Nominative": "kara",
+            "genitive": "kar",
+            "dative": "karom",
+            "Accusative": "kara",
+            "Instrumental": "karami",
+            "Locative": "karach",
+            "Vocative": "kara"
+        }
+
+    },
+    "extremum": {
+        "singular": {
+            "Nominative": "ekstremum",
+            "genitive": "ekstremum",
+            "dative": "ekstremum",
+            "Accusative": "ekstremum",
+            "Instrumental": "ekstremum",
+            "Locative": "ekstremum",
+            "Vocative": "ekstremum"
+
+        },
+        "plural": {
+            "Nominative": "ekstrema",
+            "genitive": "ekstremów",
+            "dative": "ekstremom",
+            "Accusative": "ekstrema",
+            "Instrumental": "ekstremami",
+            "Locative": "ekstremach",
+            "Vocative": "ekstrema"
+        }
+
+    },
+    "nest": {
+        "singular": {
+            "Nominative": "gniazdo",
+            "genitive": "gniazda",
+            "dative": "gniazdu",
+            "Accusative": "gniazdo",
+            "Instrumental": "gniazdem",
+            "Locative": "gnieździe",
+            "Vocative": "gniazdo"
+
+        },
+        "plural": {
+            "Nominative": "gniazda",
+            "genitive": "gniazd",
+            "dative": "gniazdom",
+            "Accusative": "gniazda",
+            "Instrumental": "gniazdami",
+            "Locative": "gniazdach",
+            "Vocative": "gniazda"
+        }
+
+    },
+    "hobby": {
+        "singular": {
+            "Nominative": "hobby",
+            "genitive": "hobby",
+            "dative": "hobby",
+            "Accusative": "hobby",
+            "Instrumental": "hobby",
+            "Locative": "hobby",
+            "Vocative": "hobby"
+
+        },
+        "plural": {
+            "Nominative": "hobby",
+            "genitive": "hobby",
+            "dative": "hobby",
+            "Accusative": "hobby",
+            "Instrumental": "hobby",
+            "Locative": "hobby",
+            "Vocative": "hobby"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
