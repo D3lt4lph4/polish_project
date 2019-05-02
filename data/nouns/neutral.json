@@ -497,6 +497,28 @@
         }
 
     },
+    "course (dish)": {
+        "singular": {
+            "Nominative": "danie",
+            "genitive": "dania",
+            "dative": "daniu",
+            "Accusative": "danie",
+            "Instrumental": "daniem",
+            "Locative": "daniu",
+            "Vocative": "danie"
+
+        },
+        "plural": {
+            "Nominative": "dania",
+            "genitive": "dań",
+            "dative": "daniom",
+            "Accusative": "dania",
+            "Instrumental": "daniami",
+            "Locative": "daniach",
+            "Vocative": "dania"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
