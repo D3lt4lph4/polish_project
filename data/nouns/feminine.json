@@ -314,6 +314,27 @@
         }
 
     },
+    "barrister": {
+        "singular": {
+            "Nominative": "adwokatka",
+            "genitive": "adwokatki",
+            "dative": "adwokatce",
+            "Accusative": "adwokatkę",
+            "Instrumental": "adwokatką",
+            "Locative": "adwokatce",
+            "Vocative": "adwokatko"
+        },
+        "plural": {
+            "Nominative": "adwokatki",
+            "genitive": "adwokatek",
+            "dative": "adwokatkom",
+            "Accusative": "adwokatki",
+            "Instrumental": "adwokatkami",
+            "Locative": "adwokatkach",
+            "Vocative": "adwokatki"
+        }
+
+    },
     "template": {
         "singular": {
             "Nominative": "",
